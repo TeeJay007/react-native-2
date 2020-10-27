@@ -1,0 +1,102 @@
+{
+    "kategorijos":[
+        {"id": 1, "name": "Užkandžiai"},
+        {"id": 2, "name": "Grill / Lauke"}
+    ],
+    "receptai": [
+        {
+            "pavadinimas": "Atviras sumuštinis su feta ir figomis",
+            "kategorija_id": 1,
+            "ingridentai": [
+                "4 riekių juodos „Beatos virtuvės“ duonos",
+                "200 g fetos",
+                "5 šviežių figų",
+                "saujos špinatų",
+                "Užpilui:",
+                "1 šviežios mėtų šakelės",
+                "0,25 šaukštelio džiovintų aitriųjų paprikų skiedrelių",
+                "4 šaukštelių netirpdyto medaus",
+                "2 šaukštelių baltojo vyno acto",
+                "0,5 šaukštelio maltų pipirų",
+                "0,5 šaukštelio druskos",
+                "1 šaukšto citrinų sulčių",
+                "2 šaukštų alyvuogių aliejaus"
+            ],
+            "paruosimo_budas": "Šis karališkas sumuštinis ir labai gražių spalvų, ir prabangaus, ypatingo skonio. Sumuštinis labai lengvai gali virsti brusketa, jei duoną prieš tai paskrudinsite. O padažas puikiai tiks bet kokioms šviežioms salotoms.\n\nRuošiame:\n\nMėtų lapelius susmulkiname peiliu. Nedideliame puodelyje ištirpiname medų, nukeliame nuo ugnies ir į jį, maišydami, sudedame visus užpilui skirtus ingredientus.\nFetą susmulkiname stambokais gabalėliais. Figas pjauname į keturias dalis ir dedame į dubenėlį. Užpilame marinatu, permaišome ir paliekame kelias minutes pastovėti.\nAnt duonos riekės dedame kelis gabaliukus fetos, špinatų lapelių ir karūnuojame figomis."
+        },
+        {
+            "pavadinimas": "Tortilijų suktinukai iš to, kas liko",
+            "kategorija_id": 1,
+            "ingridentai": [
+                "2–4 tortilijų lakštų",
+                "80–100 g kreminio sūrio ar varškės užtepėlės",
+                "80 g vytinto kiaulienos kumpio juostelėmis",
+                "1 marinuotos paprikos",
+                "bazilikų lapelių",
+                "gražgarsčių ar sultelių lapelių"
+            ],
+            "paruosimo_budas": "Tortilijų suktinukus galima sukti su kuo tik panorėjus. Šįkart siūlau panaudoti produktus, kurių liko ruošiant kitus patiekalus. Minkštą švelnų sūrį atsveria išraiškingo, stipraus saldžiarūgščio skonio marinuotos paprikos, bazilikai suteikia gaivumo.\n\nSvarbiausia, nenaudokite labai šlapių ir sultingų ingredientų – jei suktinukai turės šiek tiek pastovėti, jie gali pavandenyti ir ištižti.\n\nGaminame suktinukus: marinuotą papriką supjaustome juostelėmis. Tortilijų lakštus ištepame kreminiu sūriu.\n\nKlojame vieną ar dvi kumpio juosteles, kelias paprikos juosteles. Porą bazilikų lapelių suplėšome ant kumpio ir paprikų. Uždedame saujelę gražgarsčių ar sultenių lapelių ir susukame suktinuką. Supjaustome lygiais arba įstrižais ritinėliais.\n\nPatarimas: jei norite šilto užkandžio, prieš patiekdami suktinukus pašildykite orkaitėje."
+        },
+        {
+            "pavadinimas": "Desertinė kesadilija su kriaušėmis, cinamonu ir bri sūriu",
+            "kategorija_id": 1,
+            "ingridentai": [
+                "1 pakuotės „Santa Maria“ tortilijų",
+                "4 didelių kriaušių",
+                "200 g bri sūrio",
+                "50 g sviesto",
+                "žiupsnio nerafinuoto cukraus (nebūtinai)",
+                "žiupsnelio malto „Santa Maria“ cinamono",
+                "žiupsnelio „Santa Maria“ druskos",
+                "grietinės"
+            ],
+            "paruosimo_budas": "O dievai kaip čia skanu – traški plona tortilija, saldi kriaušė ir pikantiškas viską apjungiantis bri sūris. Kai norisi kažko saldaus ir šilto, o spintelėje guli  „Santa Maria“ tortilijų pakuotė, prisiminkite šį receptą. Ilgai neužtruksit, tiks ir ilgiems savaitgalio pusryčiams ir tingiai popietei prie vyno taurės. Beje, „Santa Maria“ tortilijos be konservantų, todėl pirkite tiek, kad spėtumėt suvartoti per jų galiojimo laiką. O atidarę pakuotę, geriau ją visą ir sunaudokite.\n\nEiga:\n\nSiunčiame nuluptas ir griežinėliais supjaustytas kriaušes kelioms minutėms į įkaitintą orkaitę (200C griliaus rėžimu), galime prieš kepima šiek tiek pabarstyti cukrumi. Jokiu būdu ilgam neatsitraukiame nuo orkaitės, nes jos gali labai greitai sudegti. Po 4-5 minučių išimame iš orkaitės, atidedame trumpam atvėsti.\nSupjaustome bri sūrį nedideliais gabalėliais. Imame „Santa Maria“ tortiliją, ant jos paviršiaus dėliojame sūrį (nebūtinai turi uždengti visą paviršių), ant viršaus – keptas suminkštėjusias kriaušes ir beriame žiupsnelį „Santa Maria“ cinamono ir vos vos druskos – tai pagerins bendrą skonį. Klojame ant viršaus kitą tortiliją, gerai paspaudžiame.\nĮkaitiname keptuvę, ištirpiname šaukštelį sviesto ir siunčiame tokį didelį dvigubą suklijuotą blyną į keptuvę. Kepame apie 4 minutes, kol apačia taps gražiai auksinė ir sūris kesadilijos viduje ims lydytis. Tada mentelių ar lėkštės pagalba apverčiame ir kepame dar tiek pat, kad ir antroji pusė gražiai apskrustų, viskas galutinai sušiltų.\nPatiekiame kesadilijas perpjovę į 6 ar 8 dalis, galima skanauti su trupučiu grietinės."
+        },
+        {
+            "pavadinimas": "Daržovingas plovas su jautiena ir sultiniu",
+            "kategorija_id": 2,
+            "ingridentai": [
+                "1 galvos česnako",
+                "1 didelio svogūno arba dviejų mažesnių",
+                "2 didelių morkų",
+                "2 skirtingų spalvų paprikų",
+                "1 skardinės konservuotų avinžirnių",
+                "800 ml ekologiško „Maggi“ jautienos arba daržovių sultinio",
+                "400 g ilgagrūdžių ryžių",
+                "400 g jautienos kumpio",
+                "1 šaukštelio kuminų sėklų",
+                "1 šaukštelio malto kumino",
+                "1 šaukštelio maltos saldžiosios paprikos",
+                "1 aitriosios paprikos",
+                "150 ml aliejaus"
+            ],
+            "paruosimo_budas": "Šis daržovingas plovas su jautiena ir sultiniu — greičiau paruošiamas ir liesesnis nei tradicinis su aviena, tačiau ne mažiau skanus. Ryžiai išbrinksta ekologiškame „Maggi“ jautienos sultinyje, todėl šis plovas tampa dar skanesnis, sodresnio skonio. \n\nTaip pat galite naudoti ir ekologišką „Maggi“ daržovių sultinį. Mes šį plovą ruošėme orkaitėje, tačiau visus žingsnius galima atlikti ir puode virš laužo — svarbu, kad puodas turėtų dangtį.\n\nGaminame:\n\nJautienos kumpį supjaustome plonomis juostelėmis. Svogūnus – pusžiedžiais, paprikas – juostelėmis, o morkas – mažais šiaudeliais. \nĮ keptuvę pilame aliejų ir laukiame, kol jis gerai įkais. Tuomet suberiame jautienos juosteles ir apkepame.\nApkeptą jautieną ištraukiame ir į likusį aliejų suberiame svogūnus, pakepame juos iki auksinės spalvos, ten pat dedame morkas ir paprikas. 5 minutes pakepame nemaišydami. \nĮ naudoti orkaitėje tinkamą kepimo indą su dangčiu suverčiame keptą jautieną ir daržoves, suberiame prieskonius ir gerai išmaišome. Pasigaminame „Maggi“ sultinio – jo reikia tiek, kad viską apsemtų. Įmerkiame nepjaustytą aitriąją papriką ir česnako galvą su nulupta viršutine luobele. Pašauname į iki 180 °C įkaitintą orkaitę ir troškiname apie 15 min.\n\nJoanos Burn nuotraukos\n\nViskam išsitroškinus suberiame nusunktus konservuotus avinžirnius ir dar pamaišome. \nRyžius kelis kartus perliejame šaltu vandeniu, kol nuo jų nubėgantis vanduo taps skaidrus. Ant patroškintų daržovių ir jautienos užberiame sluoksnį ryžių. Užpilame dar karšto „Maggi“ sultinio (pilame maža srovele, kad nesudarkytų ryžių sluoksnio). Sultinio reikia tiek, kad jo būtų 3–4 cm virš ryžių.\nKepimo indą uždengiame ir dedame į orkaitę 25–30 minučių. Kad ryžiai tolygiai išvirtų, vieną kartą kepdami puodą atidengiame ir juos pamaišome, bet neliečiame mėsos ir daržovių sluoksnio.\nPlovui išvirus viską išmaišome ir leidžiame pastovėti dar bent 15 minučių.\n\nEkologiškame „Maggi“ sultinyje nerasite skonio ir aromato stipriklių bei kitų nepageidaujamų sudedamųjų dalių.\n\nJoanos Burn nuotr.\n\n \n\nO čia galite prisiminti ir kitus plovo receptus: mano vieną pirmųjų su ėriena, perlinių kruopų plovą, žvirblelių plovą su kuskusu."
+        },
+        {
+            "pavadinimas": "Marinuotos šoninės juostelės su gaiviomis kopūstų salotomis",
+            "kategorija_id": 2,
+            "ingridentai": [
+                "700 g stambesnėmis riekėmis supjaustytos kiaulienos šoninės",
+                "1 pakuotės „Santa Maria“ universalaus marinato „All Round“",
+                "šviežio kopūsto galvos",
+                "2 žaliųjų citrinų",
+                "2 šaukštų aliejaus",
+                "1 šaukšto garstyčių",
+                "saujos sūdytų kepintų žemės riešutų",
+                "druskos, pipirų"
+            ],
+            "paruosimo_budas": "Šį patiekalą lengvai pasigamins net neįgudę grilio naudotojai. Juostelėmis supjaustyta šoninė greitai iškepa, o „Santa Maria“ universalus marinatas „All Round“ suteikia smagaus rudumo. Neperdedame – skanu be galo. O jei dar pasigaminsite mūsų siūlomų kopūstų salotų, nugalėsite visuose grilio čempionatuose.\n\nGaminame:\n\nŠoninės juosteles dedame į dubenį, užpilame „Santa Maria“ marinatu „All Round“ ir gerai pamasažuojame, kad pasidengtų visa mėsa. \n\nTai universalus marinatas. Jo sudėtyje esančios obuolių sultys, svogūnai, imbierai, aitriosios paprikos ir paprikos, juodieji pipirai, kalendros, česnakai, kuminai bei raudonėliai puikiausiai pamarinuos ir mėsą, ir žuvį, ir daržoves.\n\nPaliekame mėsą pusvalandžiui. Kol grilis kaista, pasiruošiame gaivių salotų. Padažui žaliųjų citrinų sultis sumaišome su garstyčiomis, aliejumi, dosniu žiupsniu druskos ir pipirais. Kopūstą sutarkuojame burokine tarka ar smulkiai supjaustome. Supilame padažą, suberiame pasmulkintus žemės riešutus ir gerai išmaišome.\nŠoninę iškepame ant grotelių virš įkaitusių žarijų – gabalėliai keps neilgai, tai budėkite šalia. Labai svarbu šoninės gabalėlius vartyti ir prižiūrėti kaitrą, kad mėsa nesudegtų ir neišdžiūtų.\n\n „Santa Maria“ skystieji bei sausieji marinatai yra skirti greitai marinuoti – užtenka valandos, ir jau galima kepti. "
+        },
+        {
+            "pavadinimas": "Vištienos ir daržovių šašlykas su kepsnių padažo glazūra",
+            "kategorija_id": 2,
+            "ingridentai": [
+                "600 g vištų šlaunelių mėsos",
+                "„Santa Maria“ amerikietiško kepsnių padažo „Original“",
+                "cukinijos",
+                "mažų paprikėlių"
+            ],
+            "paruosimo_budas": "Smagu, kad vis dažniau ant grilio kepame paukštieną. Galima prisigalvoti įvairiausių receptų su šia greitai iškepama mėsa.\n\nTinka bandyti įvairius marinatus, o baigiant kepti vištienos šašlyką patepti amerikietišku kepsnių padažu „Santa Maria“ – šašlykas iškart pasidengs malonia karamelizuota glazūra.\n\nGaminame:\n\nŠlaunelių mėsą ir daržoves supjaustome nemenkais gabalais. Šiek tiek viską pasūdome. Beje, galima cukiniją daržovių skustuku supjaustyti ilgomis juostomis ir ant iešmukų mauti į armonikėlę suvyniotus kaspinus.\nMėsą ir daržoves pakaitomis suveriame ant iešmelių – vištiena, cukinija, gabalas paprikos ir vėl vištiena. Jei naudojate medinius iešmelius, prieš kepdami gerai išmirkykite juos vandenyje.\nKepame ant įkaitintų žarijų. Kai mėsa bus beveik iškepusi, dosniai patepame ją „Santa Maria“ amerikietišku kepsnių padažu „Original“. Grąžiname iešmelius virš žarijų dar kelioms minutėms. Padažas turi gražiai karamelizuotis, bet akylai stebėkite, kad nesudegtų. Vis vartydami iešmus kepkite dar apie 5–7 minutes, kol mėsa pasidengs blizgia glazūra.\n\nBeje, šių „Santa Maria“ kepsnių padažų nepainiokite su kečupu. Tai sodraus skonio amerikietiški pagardai, kepsniams suteikiantys dūmo aromato.\n\n \n\nJoanos Burn nuotr.\n\n \n\nJie gali būti skanaujami tiek su jau iškeptais kepsniais, tiek naudojami kepamai mėsai ar žuviai glazūruoti. Baigiant kepti kepsnius aptepus šiuo padažu susidaro graži skani plutelė."
+        }
+    ]
+}
